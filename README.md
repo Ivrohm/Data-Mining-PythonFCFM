@@ -13,8 +13,8 @@ Practicas Minería De Datos
 
 6. Forecasting
 
-7. Clasificaion
+7. Clasificacion
 
 8. Clustering
 
-9.Text Analysis
+9. Text Analysis
